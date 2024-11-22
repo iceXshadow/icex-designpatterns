@@ -23,3 +23,4 @@ The repository is organized into folders based on the **type of design pattern**
 ---
 
 ### **Remaining patterns and examples to be added soon**
+### **Categorization to be done soon**
